@@ -51,4 +51,4 @@ src:
 `numpy`, `scipy`, `pandas`, `matplotlib`, `seaborn`
 
 ---
-**Generative AI use:** not disclosed in the source report — check with your co-authors before stating a declaration here if this repo will be public.
+**Generative AI use:** Used for resolving errors when coding and for grammar checks in the report write-up.
